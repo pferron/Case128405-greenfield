@@ -40,7 +40,7 @@
     "@mui/material": "5.5.1",
     "ag-grid-community": "24.0.0",
     "ag-grid-react": "24.0.0",
-    "axios": "0.26.0",
+    "axios": "1.6.0",
     "classnames": "2.2.6",
     "crypto-js": "4.2.0",
     "greenfield-utilities": "1.1.15",
